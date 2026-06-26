@@ -8,8 +8,9 @@
     <td colspan="2" align="center">
       <img src="https://head-mod.com/logo.png" width="72" alt="head-mod" />
       <h3>head-mod</h3>
-      <p>An AI moderator for Discord. It runs support tickets, answers members from a per-server knowledge base, and checks with you before doing anything destructive. Built on Cloudflare Workers with a discord.js gateway bot, a Gemini reasoning core, and a Next.js dashboard.</p>
-      <strong>Live and quietly running in Discord servers <a href="https://head-mod.com/">right now</a>.</strong>
+      <p><em>The head moderator your Discord doesn't have to hire.</em></p>
+      <p>It sits in your server like a senior staff member - reads the room, runs the support tickets, and learns from every case your team resolves. You stay in control; it handles the work. Two minutes to set up, free for small servers.</p>
+      <strong>Meet head-mod and <a href="https://head-mod.com/">add it to your server</a>.</strong>
       <br><br>
     </td>
     <td align="center">
