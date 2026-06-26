@@ -6,9 +6,10 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <h3>blind.watch</h3>
-      <p>Zero-knowledge server monitoring. End-to-end encrypted metrics, logs, and uptime - the operator can't read your data. Built on Cloudflare infrastructure with a Go agent and Next.js dashboard.</p>
-      <strong>Releasing soon.</strong>
+      <img src="https://head-mod.com/logo.png" width="72" alt="head-mod" />
+      <h3>head-mod</h3>
+      <p>An AI moderator for Discord. It runs support tickets, answers members from a per-server knowledge base, and checks with you before doing anything destructive. Built on Cloudflare Workers with a discord.js gateway bot, a Gemini reasoning core, and a Next.js dashboard.</p>
+      <strong>Live and quietly running in Discord servers <a href="https://head-mod.com/">right now</a>.</strong>
       <br><br>
     </td>
     <td align="center">
